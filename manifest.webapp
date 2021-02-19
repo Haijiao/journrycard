@@ -1,0 +1,40 @@
+{
+  "name": "Journey Card",
+  "description": "Check the locations that users have visited in the past 14 days for free.",
+  "version": "1.0.0",
+  "type": "web",
+  "start_url": "https://xc.caict.ac.cn/#/login",
+  "icons": {
+    "56": "/img/icons/56.png",
+    "112": "/img/icons/112.png"
+  },
+  "developer": {
+    "name": "FIH",
+    "url": ""
+  },
+
+  "locales": {
+    "en-US": {
+      "name": "Journey Card",
+      "description": "Check the locations that users have visited in the past 14 days for free."
+    },
+    "zh-CN": {
+      "name": "行程卡",
+      "description": "免费为用户查询过往14天内到访过的国家地区以及国内城市证明。"
+    },
+    "zh-HK": {
+      "name": "行程碼",
+      "description": "免費為用戶查詢過往14天內到訪過的國家地區以及國內城市證明。"
+    },
+    "zh-TW": {
+      "name": "行程碼",
+      "description": "免費為用戶查詢過往14天內到訪過的國家地區以及國內城市證明。"
+    }
+  },
+
+  "default_locale": "en-US",
+  "categories": "Utilities",
+  "cursor":true,
+  "ime_default_softkey_bar":true,
+  "orientation":"portrait-primary"
+}                                                     
